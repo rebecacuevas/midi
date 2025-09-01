@@ -1,0 +1,6 @@
+{
+  "name": "midi-ai",
+  "description": "generative ai midi controller",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
